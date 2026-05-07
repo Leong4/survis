@@ -1,5 +1,8 @@
 const userDefinedTagCategories = {
-	"type": {
-		"description": "type of the paper"
-	}
-}
+    "type": {
+        "description": "type of the paper"
+    },
+    "topic": {
+        "description": "research topic"
+    }
+};
